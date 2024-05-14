@@ -8,7 +8,7 @@ fn main() {
     let mut grains: Vec<Cereal> = vec![]; // 3
     grains.push(Cereal::Rye); // 4
     drop(grains); // 5
-    println!("{:?}", grains); // 6
+    /* println!("{:?}", grains); // 6 */ 
 }
 
 /*
