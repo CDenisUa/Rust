@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/rust-in-action/cereals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-in-action/csv-example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-in-action/hello-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-in-action/hello/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-in-action/mutex-example/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-in-action/cereals/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-in-action/csv-example/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-in-action/hello-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-in-action/hello/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-in-action/mutex-example/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
